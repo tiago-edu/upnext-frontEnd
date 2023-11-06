@@ -1,8 +1,10 @@
 // Components
 import ImgContainer from "./components/ImgContainer";
-import Plants from "./components/plants";
+import Plants from "./components/Plants"; // change the import statement to use the correct casing
 // Styles
 import "./index.css";
+
+// Components
 
 function App() {
   return (
@@ -14,3 +16,4 @@ function App() {
 }
 
 export default App;
+
